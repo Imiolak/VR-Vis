@@ -1,0 +1,1 @@
+FramesToGif\FramesToGif\bin\Debug\FramesToGif.exe frames\ output.gif
